@@ -1,0 +1,19 @@
+{
+  "name": "horace-metadata",
+  "description": "Metadata specification for the Horace bookserver",
+  "author": "akshat1",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "metadata.coffee",
+  "bugs": {
+    "url": "https://github.com/akshat1/horace-metadata/issues",
+    "email": "akshat.sh@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshat1/horace-metadata"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
